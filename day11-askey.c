@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int i;
+
+	for(i<0;i<256;i++)
+	{
+	printf("askey value of %d=%c\n",i,i);
+}
+}
